@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clippings/new_clips/EAGLE One Series.md",
+                "file": "clippings/new_clips/Edge Gateway for Windows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EAGLE One Series"
+              "title": "Edge Gateway for Windows"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "e7fe5426c619572a",
   "lastOpenFiles": [
+    "clippings/new_clips/EAGLE One Series.md",
+    "clippings/new_clips/Edge Gateway for Windows.md",
     "clippings/new_clips/Manufacturing Mobility & Smart Factory Solutions  Samsung Business 1.md",
-    "clippings/new_clips/Control SL.md",
-    "clippings/new_clips/EAGLE One Series.md"
+    "clippings/new_clips/Control SL.md"
   ]
 }
