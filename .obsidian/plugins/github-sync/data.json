@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/PaladinOnWatch-42/OT-Pantry.git",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": false
+}
