@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clippings/new_clips/Proximity Sensors.md",
+                "file": "clippings/new_clips/Ovation Automation Platform.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Proximity Sensors"
+              "title": "Ovation Automation Platform"
             }
           }
         ]
@@ -188,31 +188,31 @@
   },
   "active": "e7fe5426c619572a",
   "lastOpenFiles": [
-    "clippings/new_clips/Gas Analysis Equipment.md",
+    "clippings/new_clips/DeltaV Control Studio Online.md",
+    "clippings/new_clips/Ovation Automation Platform.md",
+    "clippings/new_clips/Engineering Tools.md",
+    "clippings/new_clips/Emerson Wireless 1410 Gateway.md",
+    "clippings/new_clips/ROC800-Series Remote Operations Controller.md",
+    "clippings/new_clips/Terminal management system.md",
+    "clippings/new_clips/Flow Measurement  Flowmeter.md",
+    "clippings/new_clips/Industrial Network Products  Rockwell Automation.md",
+    "clippings/new_clips/PlantPAx Distributed Control System   Rockwell Automation.md",
+    "clippings/new_clips/FactoryTalk View-HMI Software   FactoryTalk.md",
+    "clippings/new_clips/FactoryTalk Analytics   FactoryTalk.md",
+    "clippings/new_clips/Operational Historian Software   FactoryTalk.md",
+    "clippings/new_clips/Programmable Controllers  Rockwell Automation.md",
+    "clippings/new_clips/Programmable Controllers  Rockwell Automation 1.md",
+    "clippings/new_clips/ABB Ability Condition Monitoring for electrical systems (CMES).md",
+    "clippings/new_clips/Automation Builder.md",
+    "clippings/new_clips/ABB System 800xA - process, electrical, safety, telecoms in one system.md",
+    "clippings/new_clips/Thin Client Management Software   FactoryTalk.md",
+    "clippings/new_clips/Studio 5000 Logix Designer   FactoryTalk.md",
     "clippings/new_clips/Proximity Sensors.md",
+    "clippings/processed/Proximity Sensors.md",
+    "clippings/processed/Intrusion Detection.md",
+    "clippings/processed/Gas Analysis Equipment.md",
+    "clippings/new_clips/Gas Analysis Equipment.md",
     "clippings/new_clips/Intrusion Detection.md",
-    "clippings/processed/Citect SCADA.md",
-    "clippings/processed/Ruggedcom_Crossbow_updated20240903.pdf - Brochure - RUGGEDCOM CROSSBOW - ID 109766380 - Industry Support Siemens.md",
-    "clippings/processed/EcoStruxure™ IT Expert  Schneider Electric USA.md",
-    "clippings/processed/EcoStruxure™ DERMS  Schneider Electric USA.md",
-    "clippings/processed/EcoStruxure™ ADMS  Schneider Electric USA.md",
-    "clippings/processed/Lighting Control  Schneider Electric USA.md",
-    "clippings/processed/Schneider Electric USA.md",
-    "clippings/processed/CODESYS Edge Gateway for Linux 1.md",
-    "clippings/processed/HiSecOS Firewall Software.md",
-    "clippings/processed/Classic Switch Software.md",
-    "clippings/processed/HiOS Switch Software.md",
-    "clippings/processed/HiEOS Switch Software - HiEOS - Hirschmann Entry Operating System.md",
-    "clippings/processed/EcoStruxure Machine Expert - HVAC - Programming Software for Modicon M171-M172 Logic Controllers 1.md",
-    "clippings/new_clips/EcoStruxure Machine Expert - HVAC - Programming Software for Modicon M171-M172 Logic Controllers.md",
-    "clippings/processed/FUXA.md",
-    "clippings/processed/Infinity® M540.md",
-    "clippings/processed/RTU500 series function and software.md",
-    "clippings/processed/EcoStruxure Machine Expert Software  Schneider Electric USA 1.md",
-    "clippings/processed/EcoStruxure™ Building Data Platform  Schneider Electric USA.md",
-    "clippings/processed/EcoStruxure Power Monitoring Expert  Schneider Electric USA.md",
-    "clippings/processed/SCADAPack 57x  Schneider Electric USA 1.md",
-    "clippings/processed/EcoStruxure™ Triconex Safety Systems  Schneider Electric USA 3.md",
-    "clippings/processed/EcoStruxure™ Triconex Safety Systems  Schneider Electric USA 2.md"
+    "clippings/processed/Citect SCADA.md"
   ]
 }
