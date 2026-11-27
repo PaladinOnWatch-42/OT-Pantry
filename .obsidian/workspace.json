@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clippings/new_clips/Classic Switch Software.md",
+                "file": "clippings/new_clips/HiSecOS Firewall Software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classic Switch Software"
+              "title": "HiSecOS Firewall Software"
             }
           }
         ]
@@ -188,8 +188,9 @@
   },
   "active": "e7fe5426c619572a",
   "lastOpenFiles": [
-    "clippings/new_clips/HiOS Switch Software.md",
     "clippings/new_clips/Classic Switch Software.md",
+    "clippings/new_clips/HiSecOS Firewall Software.md",
+    "clippings/new_clips/HiOS Switch Software.md",
     "clippings/new_clips/HiEOS Switch Software - HiEOS - Hirschmann Entry Operating System.md",
     "clippings/new_clips/EcoStruxure Machine Expert - HVAC - Programming Software for Modicon M171-M172 Logic Controllers 1.md",
     "clippings/new_clips/EcoStruxure Machine Expert - HVAC - Programming Software for Modicon M171-M172 Logic Controllers.md",
@@ -212,7 +213,6 @@
     "clippings/new_clips/Intrinsic Safety Barriers.md",
     "clippings/new_clips/EcoStruxure Machine Expert Software  Schneider Electric USA.md",
     "clippings/new_clips/EcoStruxure™ Building Operation Software  Schneider Electric USA.md",
-    "clippings/new_clips/Power Monitoring Expert (PME).md",
-    "clippings/new_clips/SCADAPack 57x  Schneider Electric USA.md"
+    "clippings/new_clips/Power Monitoring Expert (PME).md"
   ]
 }
