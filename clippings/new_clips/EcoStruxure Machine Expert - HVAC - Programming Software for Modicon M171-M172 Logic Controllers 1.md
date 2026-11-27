@@ -9,6 +9,7 @@ tags:
   - "clippings"
 ---
 <iframe src="https://se.my.site.com/ESWWebMessaging1748835361173/assets/htdocs/sitecontext.min.html?parent_domain=https%3A%2F%2Fwww.se.com"></iframe>
+Introducing a new product in our HVAC portfolio, designed to not only replace the TM171O Optimized Logic Controller family but also provide functionalities comparable to the TM172P Optimized and Performance Logic Controllers family. With features like CAN and USB connectivity, this product is ideal for controlling small Air Handler Units, Dryers, Boilers, and Process Chillers.
 
 Feedback
 
