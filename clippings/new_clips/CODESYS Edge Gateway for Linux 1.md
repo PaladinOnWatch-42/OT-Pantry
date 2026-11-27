@@ -8,6 +8,8 @@ description: "CODESYS Edge Gateway"
 tags:
   - "clippings"
 ---
+The CODESYS Edge Gateway allows the CODESYS Automation Server and all clients that establish a connection via the Automation Server (CODESYS, Webvisu/Browser) full access to all services provided by the runtime system via communication interfaces. It can be operated on a controller or on a stand-alone device in the local network.
+
 ## Versions
 
 ## Release Information
