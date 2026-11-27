@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clippings/new_clips/Pipeline Trainer – Where Pipeline Control Room Training Becomes Reality.md",
+                "file": "clippings/processed/AVEVA Pipeline Integrity Monitor for real-time leak detection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pipeline Trainer – Where Pipeline Control Room Training Becomes Reality"
+              "title": "AVEVA Pipeline Integrity Monitor for real-time leak detection"
             }
           }
         ]
@@ -186,17 +186,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "e7fe5426c619572a",
+  "active": "ee48328fa163781a",
   "lastOpenFiles": [
-    "clippings/new_clips/AVEVA Pipeline Integrity Monitor for real-time leak detection.md",
-    "clippings/new_clips/Pipeline Trainer – Where Pipeline Control Room Training Becomes Reality.md",
-    "clippings/new_clips/EnerVista Launchpad  GE Vernova.md",
-    "clippings/new_clips/PAC Machine Edition Software.md",
-    "clippings/new_clips/Connected Asset Performance Management for Enterprise.md",
-    "clippings/new_clips/New Emerson Safety Controller Streamlines Integration, Offers Superior Safety and Functionality.md",
-    "clippings/new_clips/PACSystems Programmable Logic Controllers (PLCs).md",
-    "clippings/new_clips/Mark VIe Control Ecosystem.md",
-    "clippings/new_clips/Command Centre  Gallagher Security.md",
+    "clippings/processed/Pipeline Trainer – Where Pipeline Control Room Training Becomes Reality.md",
+    "clippings/processed/AVEVA Pipeline Integrity Monitor for real-time leak detection.md",
+    "clippings/processed/EnerVista Launchpad  GE Vernova.md",
+    "clippings/processed/PAC Machine Edition Software.md",
+    "clippings/processed/Connected Asset Performance Management for Enterprise.md",
+    "clippings/processed/New Emerson Safety Controller Streamlines Integration, Offers Superior Safety and Functionality.md",
+    "clippings/processed/PACSystems Programmable Logic Controllers (PLCs).md",
+    "clippings/processed/Mark VIe Control Ecosystem.md",
+    "clippings/processed/Command Centre  Gallagher Security.md",
     "clippings/processed/ABB Ability Condition Monitoring for electrical systems (CMES).md",
     "clippings/processed/Ovation Automation Platform.md",
     "clippings/processed/DeltaV Control Studio Online.md",
