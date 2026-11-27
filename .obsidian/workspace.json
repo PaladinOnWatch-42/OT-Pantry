@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clippings/processed/AVEVA Pipeline Integrity Monitor for real-time leak detection.md",
+                "file": "clippings/new_clips/Global Vision Solution Provider.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AVEVA Pipeline Integrity Monitor for real-time leak detection"
+              "title": "Global Vision Solution Provider"
             }
           }
         ]
@@ -186,10 +186,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "ee48328fa163781a",
+  "active": "e7fe5426c619572a",
   "lastOpenFiles": [
-    "clippings/processed/Pipeline Trainer – Where Pipeline Control Room Training Becomes Reality.md",
     "clippings/processed/AVEVA Pipeline Integrity Monitor for real-time leak detection.md",
+    "clippings/new_clips/Global Vision Solution Provider.md",
+    "clippings/processed/Pipeline Trainer – Where Pipeline Control Room Training Becomes Reality.md",
     "clippings/processed/EnerVista Launchpad  GE Vernova.md",
     "clippings/processed/PAC Machine Edition Software.md",
     "clippings/processed/Connected Asset Performance Management for Enterprise.md",
@@ -212,7 +213,6 @@
     "clippings/processed/Operational Historian Software   FactoryTalk.md",
     "clippings/processed/Programmable Controllers  Rockwell Automation.md",
     "clippings/processed/Programmable Controllers  Rockwell Automation 1.md",
-    "clippings/processed/Automation Builder.md",
-    "clippings/processed/ABB System 800xA - process, electrical, safety, telecoms in one system.md"
+    "clippings/processed/Automation Builder.md"
   ]
 }
