@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clippings/processed/Cloud-based remote maintenance.md",
+                "file": "clippings/new_clips/EcoStruxure™ Building Advisor  Schneider Electric USA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cloud-based remote maintenance"
+              "title": "EcoStruxure™ Building Advisor  Schneider Electric USA"
             }
           }
         ]
@@ -186,11 +186,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "ee48328fa163781a",
+  "active": "e7fe5426c619572a",
   "lastOpenFiles": [
+    "clippings/new_clips/EcoStruxure™ Foxboro DCS  Schneider Electric USA.md",
+    "clippings/new_clips/EcoStruxure™ Building Advisor  Schneider Electric USA.md",
+    "clippings/new_clips/Untitled.md",
+    "clippings/new_clips/EcoStruxure Process Expert Selection Guide.md",
+    "clippings/new_clips/EcoStruxure Control Expert Software  Schneider Electric USA.md",
+    "clippings/new_clips/EcoStruxure™ Process Expert  Schneider Electric USA 1.md",
+    "clippings/new_clips/EcoStruxure™ Process Expert  Schneider Electric USA.md",
+    "clippings/new_clips/SCADAPack™ 47x  47xi  470R  47xd.md",
+    "clippings/new_clips/Modicon master range  Schneider Electric United States.md",
+    "clippings/new_clips/Development System.md",
+    "clippings/new_clips/CODESYS Edge Gateway for Linux.md",
+    "clippings/new_clips/Discover CODESYS.md",
+    "clippings/processed/Cloud-based remote maintenance.md",
     "clippings/processed/EAGLE One Series.md",
     "clippings/processed/Product Security Incident Response Team.md",
-    "clippings/processed/Cloud-based remote maintenance.md",
     "clippings/processed/Industrial routers and cybersecurity.md",
     "clippings/processed/PC WORX EXPRESS - Programming software - 2988670.md",
     "clippings/processed/PLCNEXT ENGINEER - Programming software - 1046008.md",
@@ -201,15 +213,6 @@
     "clippings/processed/IOL MA8 EIP DI8 - Communication module - 1072839.md",
     "clippings/new_clips/CODESYS HMI (SL).md",
     "clippings/processed/Manufacturing Mobility & Smart Factory Solutions  Samsung Business 1.md",
-    "clippings/processed/Gallagher Elevator Service.md",
-    "clippings/processed/Edge Gateway for Windows.md",
-    "clippings/processed/Control SL.md",
-    "clippings/processed/Control SL 1.md",
-    "clippings/processed/CODESYS HMI (SL).md",
-    "clippings/new_clips/Manufacturing Mobility & Smart Factory Solutions  Samsung Business 1.md",
-    "clippings/new_clips/Gallagher Elevator Service.md",
-    "clippings/new_clips/Control SL 1.md",
-    "clippings/new_clips/Edge Gateway for Windows.md",
-    "clippings/new_clips/Control SL.md"
+    "clippings/processed/Gallagher Elevator Service.md"
   ]
 }
