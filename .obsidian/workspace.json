@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "clippings/new_clips/EAGLE One Series.md",
+                "file": "clippings/processed/Cloud-based remote maintenance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EAGLE One Series"
+              "title": "Cloud-based remote maintenance"
             }
           }
         ]
@@ -186,18 +186,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "e7fe5426c619572a",
+  "active": "ee48328fa163781a",
   "lastOpenFiles": [
-    "clippings/new_clips/Product Security Incident Response Team.md",
-    "clippings/new_clips/Cloud-based remote maintenance.md",
-    "clippings/new_clips/Industrial routers and cybersecurity.md",
-    "clippings/new_clips/PC WORX EXPRESS - Programming software - 2988670.md",
-    "clippings/new_clips/PLCNEXT ENGINEER - Programming software - 1046008.md",
-    "clippings/new_clips/Remote IO systems  Phoenix Contact.md",
-    "clippings/new_clips/Radioline wireless system.md",
-    "clippings/new_clips/Industrial Ethernet Switches  Phoenix Contact.md",
-    "clippings/new_clips/IOL MA8 PN DI8 - Communication module - 1072838.md",
-    "clippings/new_clips/IOL MA8 EIP DI8 - Communication module - 1072839.md",
+    "clippings/processed/EAGLE One Series.md",
+    "clippings/processed/Product Security Incident Response Team.md",
+    "clippings/processed/Cloud-based remote maintenance.md",
+    "clippings/processed/Industrial routers and cybersecurity.md",
+    "clippings/processed/PC WORX EXPRESS - Programming software - 2988670.md",
+    "clippings/processed/PLCNEXT ENGINEER - Programming software - 1046008.md",
+    "clippings/processed/Remote IO systems  Phoenix Contact.md",
+    "clippings/processed/Radioline wireless system.md",
+    "clippings/processed/Industrial Ethernet Switches  Phoenix Contact.md",
+    "clippings/processed/IOL MA8 PN DI8 - Communication module - 1072838.md",
+    "clippings/processed/IOL MA8 EIP DI8 - Communication module - 1072839.md",
     "clippings/new_clips/CODESYS HMI (SL).md",
     "clippings/processed/Manufacturing Mobility & Smart Factory Solutions  Samsung Business 1.md",
     "clippings/processed/Gallagher Elevator Service.md",
@@ -209,7 +210,6 @@
     "clippings/new_clips/Gallagher Elevator Service.md",
     "clippings/new_clips/Control SL 1.md",
     "clippings/new_clips/Edge Gateway for Windows.md",
-    "clippings/new_clips/EAGLE One Series.md",
     "clippings/new_clips/Control SL.md"
   ]
 }
